@@ -1,0 +1,268 @@
+
+
+
+
+
+
+cd
+man less
+clear
+history | less
+histroy | less
+history
+subl
+ls .
+.
+~_amavisd
+ls Desktop/
+ls ~
+~
+cd ~
+cd ../
+../
+.. ..
+../..
+..
+My_Game_Project/
+ls
+Codefellows/
+li
+Desktop/
+Documents/
+Library
+sort.css
+ls Sortproject/
+cd GitHub/
+pwd
+man ls
+ls -r
+ls r
+ls -w
+ls -a
+ls -L
+ls -s
+ls -S
+man -ls
+q
+man
+ls -ltr
+ls -tl
+ls -lt
+ls -l
+ls -t
+dir
+cd /
+cd
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name "Matt Nickel"
+git config
+git --version
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+subl ~/.config/fish/config.fi
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+echo $SHELL
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ls -G
+uname
+# fixed my desktop
+killall Dock
+cd /home
+cd ..
+~/documents
+cd ~/documents
+Downloads
+cd documents
+cd Documents
+cd Dopwd
+documents
+cd
+ls /etc
+ls /documents
+ls-a
+echo
+git add README
+git add READ ME
+git add
+git status
+git init
+git commit
+git commit -m
+git add *.c
+git config --list
+git config --global user.email matt@nickelimages.com
+man mkdir
+# ls is a list
+ls - l ~
+ls-l~
+ls-l
+ls-l ~
+"open -a Finder /usr/bin"
+"open-aFinder/usr/bin"
+ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/sublime
+sublime.
+sublime
+n -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/sublime
+source ~/.bash_profile
+open ~/.bash_profile
+~/.bash_profile
+.subl
+subl.
+open /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+~/.profile
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/sublime
+/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;
+/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+ln -s "/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+ln-s/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl
+/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl
+ln -s "Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl
+/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl ; exit;
+.subl -n
+subl -n
+run subl
+sudu /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl -/bin/subl
+/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl -/bin/subl
+run subl.
+subl-n
+sudu ln -s "/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl" /bin/subl
+ln -s "/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl" /bin/subl
+sudu
+$ sudu ln -s "/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl" /bin/subl
+git config --global user.email "matt@nickelimages.com"
+git config --global user "Matt Nickel"
+run git
+mv trest
+open test
+cp test
+cd desktop
+open touch
+touch test
+open greeting2
+open greeting
+cd greeting.html
+touch greeting.html
+touch class
+alert(message)
+name=prompt ("Who are you?");
+var name
+<script>
+cd new
+mkdir new
+mkdir
+mk dir
+ls -l ~
+/Users/Macbook/Downloads/Adobe\ Photoshop\ CS5\ Extended\ 12.0\ Final\ For\ MAC\ \[x.86\ \&\ x.64\]\[WwW.ZoNaTorrent.CoM\]\]/Keymaker\ 2/KeyMaker ; exit;
+/Users/Macbook/Downloads/Adobe\ Photoshop\ CS5\ Extended\ 12.0\ Final\ For\ MAC\ \[x.86\ \&\ x.64\]\[WwW.ZoNaTorrent.CoM\]\]/Keymaker/KeyMaker ; exit;
+history >> moving
+clear
+ll
+ls -l
+ls - l
+ls
+history > moving_around.txt
+cd
+man less
+history | less
+histroy | less
+history
+subl
+ls .
+.
+~_amavisd
+ls Desktop/
+ls ~
+~
+cd ~
+# two dots move you up one directory
+cd ../
+../
+.. ..
+../..
+..
+
+
+pwd
+man ls
+ls -r
+ls r
+ls -w
+ls -a
+ls -L
+ls -s
+ls -S
+man -ls
+q
+man
+ls -ltr
+ls -tl
+ls -lt
+ls -t
+dir
+cd /
+cd
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name "Matt Nickel"
+git config
+git --version
+echo $PATH
+echo $EDITOR
+subl ~/.config/fish/config.fish
+subl ~/.config/fish/config.fi
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+echo $SHELL
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ls -G
+uname
+killall Dock
+cd /home
+cd ..
+~/documents
+cd ~/documents
+Downloads
+cd documents
+cd Documents
+cd Dopwd
+documents
+cd
+ls /etc
+ls /documents
+ls-a
+echo
+git add README
+git add READ ME
+git add
+git status
+git init
+git commit
+git commit -m
+git add *.c
+git config --list
+git config --global user.email matt@nickelimages.com
+man mkdir
+ls - l ~
+ls-l~
+ls-l
+ls-l ~
+
