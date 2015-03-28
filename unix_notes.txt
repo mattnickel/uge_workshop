@@ -43,7 +43,7 @@ ls -L
 ls -s
 ls -S
 man -ls
-q
+q0o
 man
 ls -ltr
 ls -tl
